@@ -6,3 +6,4 @@ Temperature measurement and thresholding device.
 Buzzer  
 DS18B20 Waterproof Temperature sensor  
 Arduino Nano  
+10k Potentiometer  
